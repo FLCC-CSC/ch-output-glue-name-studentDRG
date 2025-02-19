@@ -1,10 +1,8 @@
 # FILE NAME - glue_name.py
-# DRG - Rerun for points 2025-02-18-2348
-# NAME: Dave
-# DATE: Ghidiu
-# BRIEF DESCRIPTION: A quick program to concatenate two strings
 
-
+# NAME: 
+# DATE: 
+# BRIEF DESCRIPTION:  
 
 
 
@@ -17,14 +15,11 @@
 
 
 
-
-
 ########## ENTER YER CODE BELOW THIS LINE ##########
     
 first_name = input('Enter first name: ')
 last_name = input('Enter last name: ')
-
-print(f'Hi, {first_name} {last_name}')
+print(f'Hi, {first_name}{last_name}')    
     
     
     
